@@ -5,5 +5,5 @@ import com.training.aws.profile.model.constants.Event;
 
 public interface NotificationService {
 
-  void publish(Profile profile, Event event);
+    void publish(Profile profile, Event event);
 }

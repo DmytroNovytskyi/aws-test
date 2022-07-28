@@ -8,7 +8,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 @EnableConfigurationProperties
 public class EmailNotificationApplication {
 
-  public static void main(String[] args) {
-    SpringApplication.run(EmailNotificationApplication.class, args);
-  }
+    public static void main(String[] args) {
+        SpringApplication.run(EmailNotificationApplication.class, args);
+    }
 }

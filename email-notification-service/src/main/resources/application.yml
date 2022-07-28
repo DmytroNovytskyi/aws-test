@@ -6,12 +6,12 @@ cloud:
 templates:
   - event: CREATED
     subject: "Welcome to EPAM Training"
-    from: oleg_hudyma@epam.com
+    from: roman_hudyma@epam.com
     template: welcome-template.html
 
   - event: DELETED
     subject: "We will miss you!"
-    from: oleg_hudyma@epam.com
+    from: roman_hudyma@epam.com
     template: bye-bye-template.html
 
 management:

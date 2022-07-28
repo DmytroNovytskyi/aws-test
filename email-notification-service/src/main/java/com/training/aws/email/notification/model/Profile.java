@@ -11,8 +11,8 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Profile {
 
-  private String name;
-  private String surname;
+    private String name;
+    private String surname;
 
-  private String email;
+    private String email;
 }
